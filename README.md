@@ -1,1 +1,3 @@
-My first readme file
+My first readme file 
+This has been fun with Stosh
+Thanks Stosh
