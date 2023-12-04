@@ -1,1 +1,1 @@
-My first git directory
+js bash
